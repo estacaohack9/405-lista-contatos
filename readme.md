@@ -11,3 +11,5 @@ Gravar esses dados em um banco.
 ### 1) Crie um site que possui um formulário em sua lateral esquerda e a lista de contatos na direita. Ao enviar o formulário, deve-se atualizar a lista de contato com as novas informações.
 
 Os campos do formulário são: *nome*, *telefone* e *email*
+
+### 2) Adicionar um campo *código* ao formulário, de forma que só quem informar o código correto pode inserir novos dados.
